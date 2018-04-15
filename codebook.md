@@ -36,4 +36,4 @@ In tidy_data.txt there are two more variables:
 * **volunteer** - that contains the ID of one of the 30 person
 * **activitiy** - that indicate the activity
 
-In the tidy_data_averages.txt file these two variables are combined in the name of rows
+In the tidy_data_averages.txt file these two variables are combined in  **volunteer_activitiy** variable
